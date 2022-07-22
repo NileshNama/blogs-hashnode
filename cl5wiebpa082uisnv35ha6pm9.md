@@ -101,7 +101,7 @@ this will select whole warning class
 ## 16. before :: part of label
 ## 17. after :: part of label 
 
-# ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖🔄️
+# ➖➖➖END➖➖➖
 
  ✨ That's all from my side, Thank you 👇
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-red.png)](https://www.buymeacoffee.com/NileshNama)
