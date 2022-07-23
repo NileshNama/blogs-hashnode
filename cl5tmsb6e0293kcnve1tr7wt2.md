@@ -94,12 +94,6 @@ regardless what is the screen size , its fixed at one place.
 
 ![Screenshot (34).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658322596633/VZ5klFLHh.png align="left")
 
+➖➖➖✨The End✨➖➖That's all from my side, Thank you💖 !
 
-
-# ➖➖✨END✨➖➖
-
-That's all from my side, Thank you 👇
-
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-red.png)](https://www.buymeacoffee.com/NileshNama)
-# ➖➖➖➖➖➖➖➖
 
