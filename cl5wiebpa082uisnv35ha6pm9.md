@@ -238,7 +238,7 @@ li: nth-child {
 ``` 
 
 
-➖➖➖➖➖➖✨The End✨➖➖➖➖➖That's all from my side, Thank you💖
+➖➖➖✨The End✨➖➖That's all from my side, Thank you💖 !
 
 %%[buymeacoffee]
 
