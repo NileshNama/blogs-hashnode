@@ -20,13 +20,28 @@ Now we need a place where our website can  live.
 there are tons of hosting providers that they give us `shared server/virtual  private server/ dedicated servers` of thier server computers that are located on the data centers across the world.
 
 i would like to grab your attention at very crucial thing, there are generally 2 types of hosting provider out there. 
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660446435175/_BzHOK3Ox.png align="left")
+
 1. managed hosting(shared) provider: --
 all the security and and other essential stuff will be handle by them, we need to no worry at all about it.
 some are hostinger/ blue host/ siteground etc. best for blogers or bussiness persons.
 
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660446547253/ZJ05dN4r2.png align="left")
+
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660446671998/v32kqD94x.png align="left")
+
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660446728796/-twQa6J3G.png align="left")
+
 2. cloud hosting provider: --
 provider just gives us a bare virtual system, all the thing we have to manage by ourself.
 some are  digital ocean/ Linode/ aws/ google cloud etc. best for software developers who want to explore the server management.
+
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660446833933/vgi7hVeVm.png align="left")
 
 according your needs. must  to purchase any one hosting service.
 
